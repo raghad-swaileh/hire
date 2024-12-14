@@ -77,7 +77,7 @@ class _VerificationSuccessPageState extends State<CusVerificationSuccessPage> {
                       ),
                       textAlign: TextAlign.center,
                     ),
-                    const SizedBox(height: 16),
+                    const SizedBox(height: 15),
                     Text(
                       widget.notificationMessage, // Access widget properties
                       style: GoogleFonts.montserratAlternates(
